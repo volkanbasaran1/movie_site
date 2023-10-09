@@ -14,7 +14,7 @@
     <div class="container">
         <h2>Proje Hakkında</h2>
         <p>Bilgisayarlar ve farklı ekran boyutlarına sahip mobil cihazların ekran boyutlarına uygun film projesidir.</p>
-        <h2>Kullanılan Teknolojiler</h3>
+        <h2>Kullanılan Teknolojiler</h2>
         <ul>
             <li>HTML</li>
              <li>CSS</li>
